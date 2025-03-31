@@ -11,3 +11,4 @@ message ShippingPayload {
 message ShippingResponse {
     float value = 1;
 }
+
